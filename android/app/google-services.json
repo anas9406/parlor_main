@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091327657440",
+    "project_id": "parlor-me",
+    "storage_bucket": "parlor-me.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091327657440:android:79af8db6c0033450cc9785",
+        "android_client_info": {
+          "package_name": "com.example.parlor_main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091327657440-o1cp3rqljlh8k0nh8nl3htrtnprd8rag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoLBEvER9p5BnnrgqAxHfo2IqXFEfyfLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091327657440-o1cp3rqljlh8k0nh8nl3htrtnprd8rag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
